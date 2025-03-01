@@ -58,3 +58,5 @@
 
 ## SCHEMATIC DIAGRAM: 
 
+![Image](https://github.com/user-attachments/assets/083d7ca9-c5cc-4ed3-b005-bdc13d84988d)
+
