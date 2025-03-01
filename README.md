@@ -52,3 +52,7 @@
 
 ![Image](https://github.com/user-attachments/assets/08da7b03-2ec2-4954-a7a5-65099dbecc4a)
 
+## OUTPUT WAVEFORM INCULDING MEMORY: 
+
+![Image](https://github.com/user-attachments/assets/0f22e2f7-7f3b-4451-98ed-370663694098)
+
