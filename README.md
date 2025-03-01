@@ -36,7 +36,7 @@
        
        - During a read operation, dout reflects the data stored in memory.
 
-=> Tools: *Xilinx Vivado.*
+=> Tools: *Xilinx Vivado and EDA Playground.*
 
 => Applictions: 
 
