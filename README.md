@@ -48,3 +48,7 @@
     
   4. Embedded Systems – Used in FPGA/ASIC memory designs.
      
+## OUTPUT WAVEFORM: 
+
+![Image](https://github.com/user-attachments/assets/08da7b03-2ec2-4954-a7a5-65099dbecc4a)
+
